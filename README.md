@@ -14,4 +14,17 @@ Follows redirects and removes tracking data.
 
 [Repo](https://github.com/5mdt/unshortybot), [Demo](https://t.me/unshortybot)
 
+
+## URL Fairy Bot for Telegram
+
+Unfolds different types of links
+
+[Repo](https://github.com/5mdt/url-fairy-bot), [Demo](https://t.me/URLFairyBot)
+
+## Self-hosted wizard
+
+Ansible role for easy services deploy
+
+[Repo](https://github.com/5mdt/selfhosted-wizard)
+
 ---
